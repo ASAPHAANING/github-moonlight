@@ -1000,6 +1000,7 @@
   .table-list,
   .team-left-column.bg-white,
   .team-left-column > div,
+  .js-comment-update,
   .UnderlineNav {
     background-color: var(--base-3) !important;
   }
